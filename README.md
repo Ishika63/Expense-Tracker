@@ -34,6 +34,6 @@ It is a simple web application that helps you keep track of your income and expe
 - JavaScript
 
 ## Preview
-You can see a live preview of the Expense Tracker [here](link_to_your_live_demo_if_available).
+You can see a live preview of the Expense Tracker [here](https://ishika63.github.io/Expense-Tracker/).
 
 
